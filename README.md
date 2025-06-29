@@ -1,4 +1,24 @@
 # React + Vite
+# 🛍️ Store - E-commerce React App
+
+An e-commerce store built with:
+
+- ⚛️ React (Vite)
+- 📦 Redux Toolkit for state management
+- 💨 Tailwind CSS for modern responsive UI
+- 🌐 Axios with FakeStore API
+- 🔐 React Router + Protected Routes
+
+## ✨ Features
+
+- View products from external API
+- Filter by category and search by name
+- Add / update / remove items from cart
+- Fake login to access protected checkout
+- Clean and modular folder structure
+
+## 📁 Folder Structure
+
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
