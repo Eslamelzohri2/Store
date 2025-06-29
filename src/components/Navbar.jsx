@@ -13,7 +13,7 @@ function Navbar() {
   return (
     <nav className="bg-green-600 text-white p-4 flex justify-between items-center">
       <div>
-        <Link to="/" className="font-bold text-xl">متجري</Link>
+        <Link to="/" className="font-bold text-xl">ابو ليلة</Link>
       </div>
       <div className="flex items-center space-x-6">
         <NavLink to="/" className={({ isActive }) => isActive ? 'underline' : ''}>
