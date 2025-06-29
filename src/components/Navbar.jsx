@@ -17,7 +17,7 @@ function Navbar() {
       </div>
       <div className="flex items-center space-x-6">
         <NavLink to="/" className={({ isActive }) => isActive ? 'underline' : ''}>
-          الصفحة الرئيسية
+           الرئيسية
         </NavLink>
      
         <NavLink to="/checkout" className={({ isActive }) => isActive ? 'underline' : ''}>
